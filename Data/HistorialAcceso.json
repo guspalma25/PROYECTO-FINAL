@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "UsuarioId": 101,
+    "FechaAcceso": "2025-04-20T14:30:00",
+    "IP": "192.168.1.100",
+    "Dispositivo": "Laptop",
+    "Ubicacion": "Tegucigalpa, Honduras",
+    "Accion": "Inicio de sesión",
+    "Resultado": "Exitoso",
+    "Descripcion": "Acceso al sistema desde la aplicación principal"
+  }
+]

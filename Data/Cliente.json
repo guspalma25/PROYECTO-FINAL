@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Ana Torres",
+    "Correo": "ana.torres@example.com",
+    "Telefono": "98765432",
+    "Direccion": "Colonia Miraflores, Tegucigalpa",
+    "Edad": 28,
+    "Genero": "Femenino",
+    "FechaRegistro": "2024-06-10T00:00:00",
+    "Estado": true
+  }
+]

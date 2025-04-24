@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "The Legend of Zelda: Breath of the Wild",
+    "Genero": "Aventura",
+    "Precio": 59.99,
+    "Stock": 25,
+    "Clasificacion": "E10+",
+    "Plataforma": "Nintendo Switch",
+    "FechaLanzamiento": "2017-03-03T00:00:00",
+    "Descripcion": "Un juego de aventuras en un mundo abierto, donde el jugador asume el papel de Link en su lucha para salvar Hyrule."
+  },
+  {

@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "VentaId": 1,
+    "VideojuegoId": 3,
+    "Cantidad": 2,
+    "PrecioUnitario": 59.99,
+    "Subtotal": 119.98,
+    "Descuento": 10.00,
+    "Total": 109.98,
+    "Fecha": "2024-07-15T00:00:00"
+  }
+]

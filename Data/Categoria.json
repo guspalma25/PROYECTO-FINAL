@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "RPG",
+    "Descripcion": "Juegos de rol con elementos de estrategia y narrativa profunda.",
+    "FechaCreacion": "2024-01-15T00:00:00",
+    "Activa": true,
+    "ProductosEnCategoria": 12,
+    "CodigoCategoria": "RPG001",
+    "ValorMinimo": 25.00,
+    "ValorMaximo": 89.99
+  }
+]

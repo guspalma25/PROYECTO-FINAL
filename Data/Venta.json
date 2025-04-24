@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "ClienteId": 3,
+    "FechaVenta": "2025-04-23T15:00:00",
+    "Total": 150.75,
+    "MetodoPago": "Tarjeta de Crédito",
+    "Estado": "Completada",
+    "Descuento": 15.00,
+    "TipoVenta": "Normal",
+    "EmpleadoId": 2
+  }
+]

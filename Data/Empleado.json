@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Luis Martínez",
+    "Cargo": "Gerente de Ventas",
+    "Correo": "luis.martinez@empresa.com",
+    "Telefono": "99998888",
+    "Salario": 18500.00,
+    "FechaContratacion": "2023-02-10T00:00:00",
+    "Estado": "Activo",
+    "Departamento": "Ventas"
+  }
+]

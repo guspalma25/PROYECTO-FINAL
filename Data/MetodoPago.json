@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Tarjeta de Crédito",
+    "Descripcion": "Pago mediante tarjeta Visa, Mastercard o American Express.",
+    "Activo": true,
+    "Comision": 2.5,
+    "TipoPago": "Electrónico",
+    "Codigo": "CC001",
+    "Moneda": "USD",
+    "FechaCreacion": "2025-04-01T09:00:00"
+  }
+]

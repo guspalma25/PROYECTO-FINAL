@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "VideojuegoId": 10,
+    "CantidadDisponible": 35,
+    "FechaUltimaActualizacion": "2025-04-20T10:15:00",
+    "PrecioUnitario": 49.99,
+    "Estado": "Disponible",
+    "Ubicacion": "Estante A2 - Tienda Principal",
+    "SucursalId": 3,
+    "Observaciones": "Revisión reciente del stock, sin incidencias."
+  }
+]

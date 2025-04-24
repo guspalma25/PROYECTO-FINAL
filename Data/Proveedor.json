@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Distribuidora GamerTech",
+    "Contacto": "Laura Hernández",
+    "Correo": "contacto@gamertech.com",
+    "Telefono": "+504 2234-5678",
+    "Direccion": "Boulevard Morazán, Tegucigalpa",
+    "Pais": "Honduras",
+    "Ciudad": "Tegucigalpa",
+    "TipoProveedor": "Distribuidor Mayorista"
+  }
+]

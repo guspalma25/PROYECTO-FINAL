@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Sucursal Central",
+    "Direccion": "Avenida Los Próceres, No. 345",
+    "Ciudad": "Tegucigalpa",
+    "Pais": "Honduras",
+    "Telefono": "+504 2211-3344",
+    "Activa": true,
+    "FechaApertura": "2020-03-15T00:00:00",
+    "NumeroEmpleados": 25
+  }
+]
